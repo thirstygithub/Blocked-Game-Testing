@@ -1,0 +1,4 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+18:14:30	4291/4291	---MC-	404	error ('Not%20Found')	text/html	date:Wed,%2016%20Mar%202022%2001:14:27%20GMT	https://fnaf4.clambam10.repl.co/robots.txt		(from )
+18:14:31	459/459	---M--	200	added ('OK')	text/html	date:Wed,%2016%20Mar%202022%2001:14:28%20GMT	https://fnaf4.clambam10.repl.co/	C:/Users/Jose/Downloads/FNAF%204/fnaf4.clambam10.repl.co/index.html	(from )
+18:14:31	703646/703646	---M--	200	added ('OK')	image/png	etag:%22OXhpUvfcTR166lxEsirjnxiq1Hm/zhp2JB1/K3rZcag%22	https://external-preview.redd.it/mJGzguAi9crvse1EJ5-Z34m7jznWti0C3nEplJ-N074.png?auto=webp&s=f916647223186f16e30522453add47f721a5a78e	C:/Users/Jose/Downloads/FNAF%204/external-preview.redd.it/mJGzguAi9crvse1EJ5-Z34m7jznWti0C3nEplJ-N0748399.png	(from https://fnaf4.clambam10.repl.co/)
